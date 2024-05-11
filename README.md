@@ -12,5 +12,5 @@ sudo apt install xclip -y
 if need tree-sitter-cli
 
 ```bash
-npm install tree-sitter-cli -g
+cargo install tree-sitter-cli
 ```
