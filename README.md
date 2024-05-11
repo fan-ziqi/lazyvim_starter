@@ -16,9 +16,16 @@ cargo install tree-sitter-cli
 ```
 
 if lsp can't work, update node
+
 ```bash
 sudo apt install npm
 sudo npm install n -g
 sudo n stable
 hash -r
+```
+
+tagbar needs to install ctags
+
+```bash
+sudo apt install universal-ctags
 ```
